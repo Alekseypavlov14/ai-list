@@ -46,6 +46,11 @@ h4 {
   border: none;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 html,
 body {
   width: 100%;
