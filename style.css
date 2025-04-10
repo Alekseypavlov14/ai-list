@@ -206,11 +206,27 @@ body {
   bottom: 20%;
   left: 10%;
 }
-.slide:nth-child(1) .decor-1 {
+.slide:nth-child(6) .decor-1 {
+  right: 20%;
+  top: 30%;
+}
+.slide:nth-child(6) .decor-2 {
+  bottom: 25%;
+  left: 5%;
+}
+.slide:nth-child(7) .decor-1 {
+  right: 35%;
+  top: 35%;
+}
+.slide:nth-child(7) .decor-2 {
+  bottom: 25%;
+  left: 15%;
+}
+.slide:nth-child(8) .decor-1 {
   right: 30%;
   top: 40%;
 }
-.slide:nth-child(1) .decor-2 {
+.slide:nth-child(8) .decor-2 {
   bottom: 20%;
   left: 10%;
 }
